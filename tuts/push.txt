@@ -8,6 +8,6 @@ git push -u origin master
 
 git add . / git rm filename
 git commit -m "your message"
-git push/pull
+git push/pull/   fetch[pulling forcely if pull doesnt work]
 
 git status
