@@ -7,7 +7,7 @@ git push -u origin master
 
 
 git add . / git rm filename
-git commit
+git commit -m "your message"
 git push/pull
 
 git status
