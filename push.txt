@@ -1,0 +1,13 @@
+touch README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/saroj-mhrn/demo.git
+git push -u origin master
+
+
+git add . / git rm filename
+git commit
+git push/pull
+
+git status
